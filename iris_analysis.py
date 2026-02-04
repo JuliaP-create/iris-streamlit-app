@@ -1,5 +1,10 @@
 import seaborn as sns
 import streamlit as st
+st.set_page_config(
+    page_title="Iris Analysis",
+    page_icon="🌸",
+    layout="wide"
+)
 st.title("Iris Analysis App")
 iris_df = sns.load_dataset("iris")
 st.header("Dataset")
