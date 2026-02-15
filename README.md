@@ -19,8 +19,8 @@ An interactive web application for exploring the famous Iris flower dataset usin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/JuliaP-create/streamlit-iris-analysis.git
-   cd streamlit-iris-analysis
+   git clone https://github.com/JuliaP-create/iris-streamlit-app.git
+   cd iris-streamlit-app
    ```
 2. **Create and activate virtual environment (for Windows)**
    ```bash
